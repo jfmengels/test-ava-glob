@@ -1,0 +1,12 @@
+{
+  "name": "test-ava-glob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava lib/**/*.test.js --verbose"
+  },
+  "keywords": [],
+  "author": "Jeroen Engels <jfm.engels@gmail.com>",
+  "license": "ISC"
+}
